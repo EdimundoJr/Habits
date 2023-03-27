@@ -12,7 +12,8 @@ export function Header(){
         >
           <Plus size={20} className=' text-violet-500'
           />
-          Novo Habito</button>
+          Novo Hábito
+        </button>
       </div>
   )
 }
