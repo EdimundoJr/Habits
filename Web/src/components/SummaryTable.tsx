@@ -1,4 +1,4 @@
-import { generateDatesFromYearBeginning } from "../styles/generate-dates-from-year-beginning"
+import { generateDatesFromYearBeginning } from "../utils/generate-dates-from-year-beginning"
 import { HabitDay } from "./HabitDay"
 
 const weekDays = [
